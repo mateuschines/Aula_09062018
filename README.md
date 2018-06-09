@@ -1,1 +1,2 @@
-# Aula_09062018
+# Esse projeto é um exemplo esta sendo criado junto aos alunos da pós Faculdade Alfa.
+Uhul
